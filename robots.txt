@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oomeeveifo.enikoval.com/sitemap.xml
